@@ -24,6 +24,21 @@ MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPKVKAHGKKVLGAFSDGLAHLD
 HbS 
 MVHLTPVEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPKVKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH
 
+
+normal hba 
+MVLSPADKTNVKAAWGKVGAHAGEYGAEALERMFLSFPTTKTYFPHFDLSHGSAQVKGHGKKVADALTNAVAHVDDMPNALSALSDLHAHKLRVDPVNFKLLSHCLLVTLAAHLPAEFTPAVHASLDKFLASVSTVLTSKYR
+
+what we're feeding to alphafold: 
+https://www.rcsb.org/structure/1gzx 
+or the deoxy version 
+https://www.rcsb.org/structure/1a3n
+
+
+From wikipedia https://en.wikipedia.org/wiki/Sickle_cell_disease#Genetics
+
+This is normally a benign mutation, causing no apparent effects on the secondary, tertiary, or quaternary structures of haemoglobin in conditions of normal oxygen concentration. However, under low oxygen concentration, HbS polymerizes and forms fibrous precipitates because the deoxy form of haemoglobin exposes a hydrophobic patch on the protein between the E and F helices (Phe 85, Leu 88).[70]
+
+
 ## ginkgo api review 
 
 pros: 
