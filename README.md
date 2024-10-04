@@ -40,6 +40,12 @@ This is normally a benign mutation, causing no apparent effects on the secondary
 
 
 ## ginkgo api review 
+links:
+* technical review https://www.ginkgobioworks.com/2024/09/17/aa-0-protein-llm-technical-review/ 
+* announcement https://www.ginkgobioworks.com/2024/09/17/ginkgo-model-api-ai-research/
+* docs https://omni-3.gitbook.io/ginkgo
+* playground https://models.ginkgobioworks.ai/playground
+
 
 pros: 
 * pretty nice playground
@@ -51,7 +57,8 @@ cons:
 * only let me get in with my edu email 
 * charged me (used my trial requests) on requests that errored (at parse time)
 * no way to cycle api keys (wtf )
-* docs are a 4/10 
-
+* docs are a 4/10 - specifically "Please refer to the ESMTokenizer docs for more information on the inputs."
+* no public issue tracker or feedback button just a help email
+* would like to see a demo video or intro into a practical and useful use case 
 
 overall a 5/10 experience. happy to see its not impossible to at least use, despite how limited it is.
